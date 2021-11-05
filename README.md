@@ -71,5 +71,5 @@
     ![2021-10-05_09-55](https://user-images.githubusercontent.com/82442432/135952936-3d95df52-1c20-4cca-ab31-2ce5f3bb9a15.png)
     
 -   Sau khi migrate thành công, chọn `Open app` để mở trang web đã được deploy
-    > http://my-blog-demo-app.herokuapp.com/
+    > aaaa
 
